@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Product Sans";
+    src: url("../font/ProductSans-Bold.ttf") format("opentype"),
+      url("../font/ProductSans-Bold.ttf") format("opentype");
+    font-weight: bold;
+  }
+  @font-face {
+    font-family: "Product Sans";
+    src: url("../font/ProductSans-Medium.ttf") format("opentype"),
+      url("../font/ProductSans-Medium.ttf") format("opentype");
+    font-weight: 500;
+  }
+  @font-face {
+    font-family: "Product Sans";
+    src: url("../font/ProductSans-Light.ttf") format("opentype"),
+      url("../font/ProductSans-Light.ttf") format("opentype");
+    font-weight: lighter;
+  }
+  @font-face {
+    font-family: "Product Sans";
+    src: url("../font/ProductSans-Regular.ttf") format("opentype"),
+      url("../font/ProductSans-Regular.ttf") format("opentype");
+    font-weight: normal;
+  }
+  @font-face {
+    font-family: "Product Sans";
+    src: url("../font/ProductSans-Thin.ttf") format("opentype"),
+      url("../font/ProductSans-Thin.ttf") format("opentype");
+    font-weight: 100;
+  }
+  
