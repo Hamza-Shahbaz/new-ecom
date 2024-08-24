@@ -1,5 +1,5 @@
 // export const BaseUrl = "https://ecommerce.ohiobizz.com/api/";
-export const BaseUrl = "https://ecommerce.sourcecodeemployees.com/api/";
+export const BaseUrl = "https://crm.sourcecodeemployees.com/api/";
 
 export const EndPoints = {
   login: "login", // login user
