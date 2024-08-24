@@ -112,6 +112,9 @@ const TopMobileBrands = () => {
                               <img
                                 src={item?.image_path || dummmyImage}
                                 onError={handleImageError}
+                                style={{
+                                  objectFit:"contain"
+                                }}
                               />
                               <div className="pt-2 px-3 pb-2 d-flex align-items-center justify-content-between">
                                 <div className="mb-0">
